@@ -1,0 +1,497 @@
+{
+  "game": "Vale of Eternity",
+  "scope": "base game",
+  "card_count": 70,
+  "cards": [
+    {
+      "name": "Eternity",
+      "family": "dragon",
+      "cost": 12,
+      "type": "immediate",
+      "text": "Earn [points:4] for each card family in your area."
+    },
+    {
+      "name": "Willow",
+      "family": "dragon",
+      "cost": 10,
+      "type": "immediate",
+      "text": "Earn [stone:1] [stone:3] [stone:6] and [points:3]. Draw a card."
+    },
+    {
+      "name": "Aeris",
+      "family": "dragon",
+      "cost": 9,
+      "type": "immediate",
+      "text": "Recover one of your other cards and earn [points] equal to its cost."
+    },
+    {
+      "name": "Scorch",
+      "family": "dragon",
+      "cost": 9,
+      "type": "immediate",
+      "text": "Copy one [immediate] effect of another card in your area and activate it."
+    },
+    {
+      "name": "Boulder",
+      "family": "dragon",
+      "cost": 8,
+      "type": "immediate",
+      "text": "Earn [points:8]. A player of your choice discards one of their summoned [family:wind] cards."
+    },
+    {
+      "name": "Gust",
+      "family": "dragon",
+      "cost": 8,
+      "type": "immediate",
+      "text": "Earn [points:8]. A player of your choice discards one of their summoned [family:earth] cards."
+    },
+    {
+      "name": "Ember",
+      "family": "dragon",
+      "cost": 7,
+      "type": "immediate",
+      "text": "Earn [points:7]. A player of your choice discards one of their summoned [family:water] cards."
+    },
+    {
+      "name": "Marina",
+      "family": "dragon",
+      "cost": 7,
+      "type": "immediate",
+      "text": "Earn [points:7]. A player of your choice discards one of their summoned [family:fire] cards."
+    },
+    {
+      "name": "Tidal",
+      "family": "dragon",
+      "cost": 5,
+      "type": "immediate",
+      "text": "Earn [points:5] for each [family:dragon] card in your area."
+    },
+    {
+      "name": "Dragon Egg",
+      "family": "dragon",
+      "cost": 3,
+      "type": "immediate",
+      "text": "Discard this card and summon a [family:dragon] card for free."
+    },
+    {
+      "name": "Agni",
+      "family": "fire",
+      "cost": 4,
+      "type": "passive",
+      "text": "The value of your [family:fire] [points:1] is increased by 1."
+    },
+    {
+      "name": "Asmodeus",
+      "family": "fire",
+      "cost": 4,
+      "type": "end_of_round",
+      "text": "Recover one of your cards with [glyph:immediate] and a written cost of 2 or less."
+    },
+    {
+      "name": "Balog",
+      "family": "fire",
+      "cost": 4,
+      "type": "end_of_round",
+      "text": "Recover one of your [family:fire] cards with [glyph:immediate]."
+    },
+    {
+      "name": "Surtr",
+      "family": "fire",
+      "cost": 4,
+      "type": "immediate",
+      "text": "Earn [points:2] for each card family in your area."
+    },
+    {
+      "name": "Burning Skull",
+      "family": "fire",
+      "cost": 3,
+      "type": "end_of_round",
+      "text": "Discard one of your [family:fire] [points:1], then earn [points:3]."
+    },
+    {
+      "name": "Lava Giant",
+      "family": "fire",
+      "cost": 3,
+      "type": "immediate",
+      "text": "Earn [points:2] for each [family:fire] card in your area."
+    },
+    {
+      "name": "Phoenix",
+      "family": "fire",
+      "cost": 3,
+      "type": "passive",
+      "text": "Whenever you summon a card, earn [points:1] for each used [family:fire]."
+    },
+    {
+      "name": "Horned Salamander",
+      "family": "fire",
+      "cost": 2,
+      "type": "end_of_round",
+      "text": "Earn [family:fire:1] [family:fire:1] [family:fire:1] [family:fire:1]."
+    },
+    {
+      "name": "Ifrit",
+      "family": "fire",
+      "cost": 2,
+      "type": "immediate",
+      "text": "Earn [points:1] for each card in your area."
+    },
+    {
+      "name": "Incubus",
+      "family": "fire",
+      "cost": 2,
+      "type": "immediate",
+      "text": "Earn [points:2] for each card with a written cost of 2 or less in your area."
+    },
+    {
+      "name": "Firefox",
+      "family": "fire",
+      "cost": 1,
+      "type": "immediate",
+      "text": "Earn [points:1] for each card in your hand."
+    },
+    {
+      "name": "Hestia",
+      "family": "fire",
+      "cost": 1,
+      "type": "passive",
+      "text": "You can keep two more stones."
+    },
+    {
+      "name": "Imp",
+      "family": "fire",
+      "cost": 1,
+      "type": "immediate",
+      "text": "[glyph:immediate] Earn [family:fire:1] [family:fire:1]. [glyph:end_of_round] Recover."
+    },
+    {
+      "name": "Salamander",
+      "family": "fire",
+      "cost": 1,
+      "type": "end_of_round",
+      "text": "Earn [family:fire:1] and [points:1]."
+    },
+    {
+      "name": "Succubus",
+      "family": "fire",
+      "cost": 1,
+      "type": "immediate",
+      "text": "If cards with written cost of 1, 2, 3, and 4 are all in your area, earn [points:10]."
+    },
+    {
+      "name": "Sand Giant",
+      "family": "earth",
+      "cost": 10,
+      "type": "immediate",
+      "text": "Earn [points:4] for each [family:earth] card in your area."
+    },
+    {
+      "name": "Behemoth",
+      "family": "earth",
+      "cost": 9,
+      "type": "immediate",
+      "text": "Earn [points:3] for each card family in your area."
+    },
+    {
+      "name": "Mimic",
+      "family": "earth",
+      "cost": 6,
+      "type": "end_of_round",
+      "text": "Choose any [family:earth] card from discard pile. Add it into your hand."
+    },
+    {
+      "name": "Mud Slime",
+      "family": "earth",
+      "cost": 6,
+      "type": "immediate",
+      "text": "[lightning bolt] Earn [points:6]. [hourglass icon] Recover."
+    },
+    {
+      "name": "Rock Golem",
+      "family": "earth",
+      "cost": 6,
+      "type": "immediate",
+      "text": "Earn [points:UNKNOWN] (total value of your [points:6])."
+    },
+    {
+      "name": "Stone Golem",
+      "family": "earth",
+      "cost": 6,
+      "type": "immediate",
+      "text": "Exchange each of your stones with [points:6]."
+    },
+    {
+      "name": "Cerberus",
+      "family": "earth",
+      "cost": 5,
+      "type": "immediate",
+      "text": "Discard up to 3 of your other summoned cards."
+    },
+    {
+      "name": "Goblin Soldier",
+      "family": "earth",
+      "cost": 4,
+      "type": "end_of_round",
+      "text": "If any opponent has more points than you, earn [points:4]. Otherwise lose [points:4]."
+    },
+    {
+      "name": "Medusa",
+      "family": "earth",
+      "cost": 4,
+      "type": "end_of_round",
+      "text": "Discard a card from your hand, then earn [points:6]."
+    },
+    {
+      "name": "Basilisk",
+      "family": "earth",
+      "cost": 3,
+      "type": "end_of_round",
+      "text": "Lose [points:0] / [points:1] / [points:2], then earn [family:fire] [points:1] / [family:water] [points:3] / [family:dragon] [points:6]."
+    },
+    {
+      "name": "Troll",
+      "family": "earth",
+      "cost": 3,
+      "type": "end_of_round",
+      "text": "If you have [points:6], earn [points:3]."
+    },
+    {
+      "name": "Forest Spirit",
+      "family": "earth",
+      "cost": 2,
+      "type": "immediate",
+      "text": "Discard a card from your hand and earn [points:UNKNOWN] (cost written on the card)."
+    },
+    {
+      "name": "Gargoyle",
+      "family": "earth",
+      "cost": 2,
+      "type": "passive",
+      "text": "Whenever you summon a card using [family:dragon], earn [points:3]."
+    },
+    {
+      "name": "Goblin",
+      "family": "earth",
+      "cost": 1,
+      "type": "end_of_round",
+      "text": "Steal [points:1] from any opponent."
+    },
+    {
+      "name": "Young Forest Spirit",
+      "family": "earth",
+      "cost": 1,
+      "type": "immediate",
+      "text": "Discard a card from your hand and summon another card for free."
+    },
+    {
+      "name": "Poseidon",
+      "family": "water",
+      "cost": 7,
+      "type": "immediate",
+      "text": "Earn [points:3] for each [family:water] card in your area."
+    },
+    {
+      "name": "Charybdis",
+      "family": "water",
+      "cost": 5,
+      "type": "end_of_round",
+      "text": "Discard one of your [family:water:3], then earn [points:5]."
+    },
+    {
+      "name": "Hydra",
+      "family": "water",
+      "cost": 4,
+      "type": "immediate",
+      "text": "Choose 2 between [family:dragon:6] / draw a card / [family:water] [family:water] / [points:4]. Earn them."
+    },
+    {
+      "name": "Leviathan",
+      "family": "water",
+      "cost": 4,
+      "type": "immediate",
+      "text": "Earn [points:7]. A player of your choice discards one of their summoned [family:dragon] cards."
+    },
+    {
+      "name": "Triton",
+      "family": "water",
+      "cost": 4,
+      "type": "passive",
+      "text": "Whenever you tame a [family:water] card, earn [points:3] [points:3]."
+    },
+    {
+      "name": "Water Giant",
+      "family": "water",
+      "cost": 4,
+      "type": "immediate",
+      "text": "[glyph:immediate] Earn [family:water:3] [family:water:3]. [glyph:passive] Values of your [family:water:3] and [family:dragon:6] are each increased by 1."
+    },
+    {
+      "name": "Hae-tae",
+      "family": "water",
+      "cost": 3,
+      "type": "passive",
+      "text": "Value of your [family:water:3] counts as [family:dragon:6]. Value of your [family:dragon:6] counts as [family:water:3]."
+    },
+    {
+      "name": "Snail Maiden",
+      "family": "water",
+      "cost": 3,
+      "type": "end_of_round",
+      "text": "Exchange one of your [family:water:3] with [family:dragon:6]. -or- Exchange one of your [family:dragon:6] with [family:water:3] [family:water:3] [family:water:3]."
+    },
+    {
+      "name": "Undine Queen",
+      "family": "water",
+      "cost": 3,
+      "type": "end_of_round",
+      "text": "Earn [family:water:3]."
+    },
+    {
+      "name": "Yuki Onna Exalted",
+      "family": "water",
+      "cost": 3,
+      "type": "immediate",
+      "text": "Earn [points:?] (total value of your [family:water])."
+    },
+    {
+      "name": "Nessie",
+      "family": "water",
+      "cost": 2,
+      "type": "end_of_round",
+      "text": "If there is no [family:dragon] card in your area, earn [points:2]."
+    },
+    {
+      "name": "Kappa",
+      "family": "water",
+      "cost": 1,
+      "type": "passive",
+      "text": "Whenever you summon a card using [family:water], earn [points:2]."
+    },
+    {
+      "name": "Sea Spirit",
+      "family": "water",
+      "cost": 1,
+      "type": "end_of_round",
+      "text": "Earn [points:1] for each your [family:water]."
+    },
+    {
+      "name": "Undine",
+      "family": "water",
+      "cost": 1,
+      "type": "immediate",
+      "text": "[glyph:immediate] Earn [family:water:3]. [glyph:end_of_round] Recover."
+    },
+    {
+      "name": "Yuki Onna",
+      "family": "water",
+      "cost": 1,
+      "type": "immediate",
+      "text": "Discard all your stones and earn [points:?] (total value of discarded stones)."
+    },
+    {
+      "name": "Gi-rin",
+      "family": "wind",
+      "cost": 10,
+      "type": "immediate",
+      "text": "Earn [points:2] for each card in your area."
+    },
+    {
+      "name": "Rudra",
+      "family": "wind",
+      "cost": 8,
+      "type": "immediate",
+      "text": "Earn [points:2] for each card in your hand."
+    },
+    {
+      "name": "Freyja",
+      "family": "wind",
+      "cost": 7,
+      "type": "end_of_round",
+      "text": "Earn [points:1] for each card with [hourglass icon] in your area."
+    },
+    {
+      "name": "Griffon",
+      "family": "wind",
+      "cost": 7,
+      "type": "end_of_round",
+      "text": "Draw a card."
+    },
+    {
+      "name": "Odin",
+      "family": "wind",
+      "cost": 6,
+      "type": "end_of_round",
+      "text": "If you have less than 6 cards in your hand, earn [points:2]. Otherwise, earn [points:6]."
+    },
+    {
+      "name": "Genie Exalted",
+      "family": "wind",
+      "cost": 5,
+      "type": "end_of_round",
+      "text": "Copy one [hourglass icon] effect of another card in your area and activate it."
+    },
+    {
+      "name": "Valkyrie",
+      "family": "wind",
+      "cost": 5,
+      "type": "end_of_round",
+      "text": "Earn [points:1] for each card family in your area."
+    },
+    {
+      "name": "Boreas",
+      "family": "wind",
+      "cost": 4,
+      "type": "immediate",
+      "text": "Earn [points:1] for each [family:wind] card in your area. Immediately recover this card."
+    },
+    {
+      "name": "Genie",
+      "family": "wind",
+      "cost": 4,
+      "type": "immediate",
+      "text": "[lightning bolt] Activate all available [hourglass icon] effect of cards in your area."
+    },
+    {
+      "name": "Hippogriff",
+      "family": "wind",
+      "cost": 4,
+      "type": "immediate",
+      "text": "[lightning bolt] Draw a card. [infinity symbol] The cost of your [family:wind] card is decreased by 2."
+    },
+    {
+      "name": "Sylph",
+      "family": "wind",
+      "cost": 4,
+      "type": "immediate",
+      "text": "[lightning bolt] Draw a card. [infinity symbol] Whenever you summon a card, earn [points:1]."
+    },
+    {
+      "name": "Dandelion Spirit",
+      "family": "wind",
+      "cost": 3,
+      "type": "immediate",
+      "text": "[lightning bolt] Draw a card. [hourglass icon] Recover."
+    },
+    {
+      "name": "Harpy",
+      "family": "wind",
+      "cost": 3,
+      "type": "end_of_round",
+      "text": "If the number of cards in your hand is the same as the number of cards in your area, earn [points:3]."
+    },
+    {
+      "name": "Pegasus",
+      "family": "wind",
+      "cost": 3,
+      "type": "immediate",
+      "text": "[lightning bolt] Draw a card. [infinity symbol] The cost of your card is decreased by 1."
+    },
+    {
+      "name": "Tengu",
+      "family": "wind",
+      "cost": 3,
+      "type": "immediate",
+      "text": "Earn [points:6] and put this card on the top of the draw deck."
+    }
+  ]
+}
