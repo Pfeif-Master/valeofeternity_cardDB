@@ -8,7 +8,6 @@ Private workspace for building a local Vale of Eternity game server.
   - filenames are card names (e.g. `cards/Fire/Horned Salamander.png`)
 - `scripts/pull_cards.py` — puller: fetches base-game card images from the
   wiki (valeofeternity.wiki.gg) via its MediaWiki API
-- `docs/recon_report.md` — asset/licensing recon notes
 
 ## Puller
 
@@ -27,5 +26,5 @@ rules and deliberately not pulled yet.
 
 ## Licensing caution
 
-All card art is © Renegade Game Studios. This repo is for private,
-local, non-commercial use only. Do not redistribute.
+All card art is © Renegade Game Studios. non-commercial use only. Do not redistribute card images.
+This is a hobby project to practice with AI tools.
