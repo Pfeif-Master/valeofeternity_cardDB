@@ -337,7 +337,7 @@
       "effects": [
         {
           "type": "instant",
-          "text": "Earn [points:UNKNOWN] (total value of your [stone:blue])."
+          "text": "Earn [points:?] (total value of your [stone:purple])."
         }
       ]
     },
@@ -348,7 +348,7 @@
       "effects": [
         {
           "type": "instant",
-          "text": "Exchange each of your stones with [stone:blue]."
+          "text": "Exchange each of your stones with [stone:purple]."
         }
       ]
     },
@@ -381,7 +381,7 @@
       "effects": [
         {
           "type": "active",
-          "text": "Discard a card from your hand, then earn [stone:blue]."
+          "text": "Discard a card from your hand, then earn [stone:purple]."
         }
       ]
     },
@@ -403,7 +403,7 @@
       "effects": [
         {
           "type": "active",
-          "text": "If you have [stone:blue], earn [points:3]."
+          "text": "If you have [stone:purple], earn [points:3]."
         }
       ]
     },
@@ -414,7 +414,7 @@
       "effects": [
         {
           "type": "instant",
-          "text": "Discard a card from your hand and earn [points:UNKNOWN] (cost written on the card)."
+          "text": "Discard a card from your hand and earn [points:?] (cost written on the card)."
         }
       ]
     },
@@ -443,7 +443,7 @@
     {
       "name": "Young Forest Spirit",
       "family": "earth",
-      "cost": 1,
+      "cost": 0,
       "effects": [
         {
           "type": "instant",
@@ -616,7 +616,7 @@
     {
       "name": "Yuki Onna",
       "family": "water",
-      "cost": 1,
+      "cost": 0,
       "effects": [
         {
           "type": "instant",
@@ -675,7 +675,7 @@
       "effects": [
         {
           "type": "active",
-          "text": "If you have less than 6 cards in your hand, earn [points:2]. Otherwise, earn [stone:blue]."
+          "text": "If you have less than 6 cards in your hand, earn [points:2]. Otherwise, earn [stone:purple]."
         }
       ]
     },
