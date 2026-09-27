@@ -237,7 +237,7 @@
     {
       "name": "Hestia",
       "family": "fire",
-      "cost": 1,
+      "cost": 0,
       "effects": [
         {
           "type": "permanent",
@@ -248,7 +248,7 @@
     {
       "name": "Imp",
       "family": "fire",
-      "cost": 1,
+      "cost": 0,
       "effects": [
         {
           "type": "instant",
@@ -274,7 +274,7 @@
     {
       "name": "Succubus",
       "family": "fire",
-      "cost": 1,
+      "cost": 0,
       "effects": [
         {
           "type": "instant",
